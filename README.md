@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     <tr>
         <td >
             <center><a href="https://www.mcboke.cn/pwn4/test.svg">here</a></center>
+            <center><a href="file:///etc/hosts">here</a></center>
         </td>
     </tr>
 </table>
